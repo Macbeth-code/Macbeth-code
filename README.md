@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer science | specializing in AI
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me macbethmakaya36@gmail.com
-- ⚡ Fun fact: I love Ice chocolate cream
+
 
 <!---
 Macbeth-code/Macbeth-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
